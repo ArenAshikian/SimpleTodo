@@ -37,7 +37,7 @@ Describe any challenges encountered while building the app.
 A challange that arrived during this project was with importing android.os.fileUtils, this import did not work for the project as shown in the video so I had to do some outside invesigation in order to find assets that would work for this project.
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Aren Ashikian]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
